@@ -81,6 +81,6 @@ The Pomodoro Counter App relies on the following technologies to deliver a seaml
 - Python 3.x
 - Tkinter
 - Pillow
-- 
+
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
